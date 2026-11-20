@@ -98,7 +98,7 @@ public class Menu {
 		System.out.println("\n*********************************************************");
 		System.out.println(" Projeto Desenvolvido por:                              ");
 		System.out.println(" Dayana Barbosa - day_sbarbosa@hotmail.com              ");
-		System.out.println(" GitHub: https://github.com/Day-Barbosa/Projeto_ContaBancaria");
+		System.out.println(" GitHub: https://github.com/Day-Barbosa/banco-console");
 		System.out.println("*********************************************************");
 	}
 }
